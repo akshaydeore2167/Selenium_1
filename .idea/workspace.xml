@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f91c2dc-2d43-4d89-9727-0e42ea0416d6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="19 (2)" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2icygjqOMuVRbiDrcmUJK1qfhN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.Selenium [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.D:/Fresh Start/Selenium/testng.xml.executor": "Run",
+    "TestNG.Main.executor": "Run",
+    "TestNG._1_Parellel.executor": "Run",
+    "TestNG._1_Test_Priority.executor": "Run",
+    "TestNG._4_Priority_Disable_Test_Case.Test_1.executor": "Run",
+    "TestNG._4_Priority_Disable_Test_Case.executor": "Run",
+    "TestNG._5_Dependancy_Always_Run.executor": "Run",
+    "TestNG._9_Use_Of_DataProvider.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Akshay Programming/qa_automation",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.D:/Fresh Start/Selenium/testng.xml">
+    <configuration name="D:/Fresh Start/Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_Parellel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2_Parellel_Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_2_Parellel_Testing" />
+      <option name="MAIN_CLASS_NAME" value="_2_Parellel_Testing._1_Parellel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_Priority_Disable_Test_Case" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1_Testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_1_Testng" />
+      <option name="MAIN_CLASS_NAME" value="_1_Testng._4_Priority_Disable_Test_Case" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_5_Dependancy_Always_Run" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1_Testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_1_Testng" />
+      <option name="MAIN_CLASS_NAME" value="_1_Testng._5_Dependancy_Always_Run" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_9_Use_Of_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1_Testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_1_Testng" />
+      <option name="MAIN_CLASS_NAME" value="_1_Testng._9_Use_Of_DataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG._1_Parellel" />
+      <item itemvalue="TestNG._4_Priority_Disable_Test_Case" />
+      <item itemvalue="TestNG._5_Dependancy_Always_Run" />
+      <item itemvalue="TestNG._9_Use_Of_DataProvider" />
+      <item itemvalue="TestNG.D:/Fresh Start/Selenium/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Fresh Start/Selenium/testng.xml" />
+        <item itemvalue="TestNG._1_Parellel" />
+        <item itemvalue="TestNG._9_Use_Of_DataProvider" />
+        <item itemvalue="TestNG._5_Dependancy_Always_Run" />
+        <item itemvalue="TestNG._4_Priority_Disable_Test_Case" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f91c2dc-2d43-4d89-9727-0e42ea0416d6" name="Changes" comment="" />
+      <created>1719804275832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719804275832</updated>
+    </task>
+    <servers />
+  </component>
+</project>
